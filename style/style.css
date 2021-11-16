@@ -13,6 +13,11 @@ body{
 	padding:10px;
 }
 
+.top-buffer { margin-top:100px; }
+.hide {background-color:grey;
+colour:grey
+colour-text:grey
+}
 
 h1{
 		color:blue;
@@ -29,8 +34,9 @@ h2{
 }
 h3{
 		color:black;
-		font-family:Calibri;
-		font-size:150%;
+		font-family:Helvetica;
+		font-size:200%;
+		text-align:center;
 }
 
 .boldblue{
